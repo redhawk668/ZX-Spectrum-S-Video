@@ -23,7 +23,14 @@ I first built it up on a piece of stripboard and did some testing and it worked 
 - 1x 22uF Electrolytic Capacitor
 - Some wire
 - 2x M2.5 screws
-- 4x M2.5 nuts
+- 4x M2.5 bolts
+
+# Summary
+Once you have built the little circuit, solder in wires for luma in, chroma in and +5 volt in. Make the wires for luma in and +5 volt about 50mm, make sure the chroma wire is a bit longer as shown on the picture (the white wire is chroma):
+
+
+
+
 
 
 

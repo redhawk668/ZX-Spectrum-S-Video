@@ -24,12 +24,21 @@ I first built it up on a piece of stripboard and did some testing and it worked 
 - Some wire
 - 2x M2.5 screws
 - 4x M2.5 nuts
+
 # Summary
 Once you have built the little circuit, solder in wires for luma in, chroma in and +5 volt in. Make the wires for luma in and +5 volt about 50mm, make sure the chroma wire is a bit longer, as shown in the picture (the white wire is chroma):
 
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165732.jpg)
 
-Now, remove the modulatorbox and capacitor C65 from the Spectrum PCB. Now carefully mount the PCB onto the Spectrum PCB using the screws and bolts (might need drilling, but M2.5 should fit). Seperate the PCB's using one of the nuts on either side. Tighten the PCB to the Spectrum PCB using a nut on either side, as shown in the picture:
+Now, remove the modulatorbox and capacitor C65 from the Spectrum PCB. Now carefully mount the PCB onto the Spectrum PCB using the screws and nuts (might need drilling, but M2.5 should fit). Seperate the PCB's using one of the nuts on either side. Tighten the PCB to the Spectrum PCB using a nut on either side, as shown in the picture:
+
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165952.jpg)
+
+Now solder the luma and +5 volt to their respective holes. (The composite output on the Spectrum is now the luma output). Solder the chromna wire to the pad for the + side of capacitor C65.
+
+I recommend cutting the pins of the mini din chassis as close to the underside of the PCB as possible, to prevent short circuits. 
+
+That's all. Enjoy a dot crawl free display!
 
 
 

@@ -14,6 +14,8 @@ I first built it up on a piece of stripboard and did some testing and it worked 
 # The PCB itself
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/KiCad/Final%20Design.png)
 
+I have included the Gerber files, so you can have the PCB manufactured by your preferred manufacturer.
+
 # Billing of Materials
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
 - 3x NPN Transistors. I've used BC547, but most small signal transistors should be fine.

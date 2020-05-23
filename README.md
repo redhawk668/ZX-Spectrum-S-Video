@@ -20,7 +20,7 @@ I first built it up on a piece of stripboard and did some testing and it worked 
 - 1x 2K2 Resistor
 - 1x 3K9 or 1x 4K3 Resistor
 - 1x 390R Resistor
-- 1x 22uF Capacitor
+- 1x 22uF Electrolytic Capacitor
 - Some wire
 - 2x M2.5 screws
 - 4x M2.5 nuts

@@ -23,10 +23,16 @@ I first built it up on a piece of stripboard and did some testing and it worked 
 - 1x 22uF Electrolytic Capacitor
 - Some wire
 - 2x M2.5 screws
-- 4x M2.5 bolts
-
+- 4x M2.5 nuts
 # Summary
 Once you have built the little circuit, solder in wires for luma in, chroma in and +5 volt in. Make the wires for luma in and +5 volt about 50mm, make sure the chroma wire is a bit longer as shown on the picture (the white wire is chroma):
+
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165732.jpg)
+
+Now, remove the modulatorbox and capacitor C65 from the Spectrum PCB. Now carefully mount the PCB onto the Spectrum PCB using the screws and bolts (might need drilling, but M2.5 should fit). Seperate the PCB's using one of the nuts on either side. Tighten the PCB to the Spectrum PCB:
+
+
+
 
 
 

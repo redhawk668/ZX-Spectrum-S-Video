@@ -7,7 +7,7 @@ The ZX Spectrum does have a composite signal that goes into the modulatorbox, a 
 # Composite output works, why designing this board?
 Why not? I wanted some exercise in KiCad and I am using a RetroTink 2X. The Spectrum's composite output is absolutely horrible on this. However, it accepts s-video signal. So, that made me wonder, is it possible to seperate the Y/C signals on a ZX Spectrum? Some googling later I found this thread on the World of Spectrum forums: 
 
-https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-modification-on-issue-two-48k-spectrum/p1. Credits go to MAK1024 and RGA24.
+https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-modification-on-issue-two-48k-spectrum/p1. Credits go to MAK1024 and RGA24 for providing the basics for this design.
 
 I first built it up on a piece of stripboard and did some testing and it worked quite well with my RetroTink. Nice clear image without dot crawl. So, to answer the question above, I designed this PCB to make it easier to build and reversible. 
 
@@ -38,7 +38,10 @@ Now solder the luma and +5 volt to their respective holes. (The composite output
 
 I recommend cutting the pins of the mini din chassis as close to the underside of the PCB as possible, to prevent short circuits. 
 
-That's all. Enjoy a dot crawl free display!
+# Disclaimer
+I am not responsible for any damage to your Spectrum, you do this at your own risk. Take care when you build this and when fitting it to your Spectrum.
+
+
 
 
 

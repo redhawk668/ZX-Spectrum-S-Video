@@ -32,7 +32,7 @@ I have included the Gerber files, so you can have the PCB manufactured by your p
 - 4x M2.5 nuts
 
 # Summary
-Once you have built the little circuit, solder in wires for luma in, chroma in and +5 volt in. Make the wires for luma in and +5 volt about 50mm, PCB layout is on an Issue 2 a bit different than Issue 3 and above. 50mm for the chroma wire is long enough for an Issue 2. Issue 3 and above needs a bit longer wire. 
+Once you have built the little circuit, solder in wires for luma in, chroma in and +5 volt in. Make the wires for luma in and +5 volt about 50mm. PCB layout on an Issue 2 is a bit different than Issue 3 and above. 50mm for the chroma wire should be long enough for an Issue 2. Issue 3 and above needs a bit longer wire. 
 
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165732.jpg)
 

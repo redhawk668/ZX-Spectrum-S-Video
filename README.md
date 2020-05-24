@@ -38,7 +38,7 @@ Now, remove the modulatorbox and capacitor C65 from the Spectrum PCB. Now carefu
 
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165952.jpg)
 
-Now solder the luma and +5 volt to their respective holes. (The composite output on the Spectrum is now the luma output). Solder the chroma wire to the pad for the + side of capacitor C65. On Issue 2 boards C65 is underneath the modulator box, on Issue 3 boards and above, C65 is above C25 on the left side of the PCB.
+Now solder the luma and +5 volt to their respective holes. (The composite output on the Spectrum is now the luma output). Solder the chroma wire to the pad for the + side of capacitor C65. On Issue 2 PCB's C65 is underneath the modulator box, on Issue 3 boards and above, C65 is above C25 on the left side of the PCB.
 
 # Issue 2:
 
@@ -46,7 +46,7 @@ Now solder the luma and +5 volt to their respective holes. (The composite output
 
 # Issue 3 and above:
 
-
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165732.jpg)
 
 I recommend cutting the pins of the mini din chassis as close to the underside of the PCB as possible, to prevent short circuits. 
 

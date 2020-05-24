@@ -11,7 +11,9 @@ https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-
 
 Credits to MAK1024 and RGA24 for providing the basics for this design.
 
-I first built it up on a piece of stripboard and did some testing and it worked quite well with my RetroTink. A nice clear picture without dot crawl. It also gives a good picture on a Commodore 1701 CRT. This PCB makes the modification a bit easier to perfom and reversible should that be necessary.   
+I first built it up on a piece of stripboard and did some testing and it worked quite well with my RetroTink. A nice clear picture without dot crawl. It also gives a good picture on a Commodore 1701 CRT. 
+
+This PCB makes the modification a bit easier to carry out and it is reversible. 
 
 # The PCB itself
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/KiCad/Final%20Design.png)

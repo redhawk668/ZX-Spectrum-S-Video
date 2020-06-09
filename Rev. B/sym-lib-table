@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name S-VHS-ZX-Spectrum-Rev.-B-rescue)(type Legacy)(uri "${KIPRJMOD}/S-VHS ZX Spectrum Rev. B-rescue.lib")(options "")(descr ""))
+  (lib (name S-VHS-ZX-Spectrum-Rev.-B)(type Legacy)(uri ${KIPRJMOD}/S-VHS-ZX-Spectrum-Rev.-B.lib)(options "")(descr ""))
+)

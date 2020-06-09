@@ -23,7 +23,7 @@ This PCB makes the modification a bit easier to carry out and it is reversible.
 # Rev. B
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20B/Final%20Design%20Rev.%20B%20-%20Red.png)
 
-Rev. A is the first design I made and is a through hole design. Rev. B is the second I made and this a fully SMD design and based on an FMS6143 video filter driver.
+Rev. A is the first design I made and is a through hole design. Rev. B is the second I made and this is a full SMD design and based on an FMS6143 video filter driver.
 
 I have included the Gerber files from both designs, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 

@@ -23,15 +23,34 @@ This PCB makes the modification a bit easier to carry out and it is reversible.
 # Rev. B
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20B/Final%20Design%20Rev.%20B%20-%20Red.png)
 
-I have included the Gerber files, so you can have the PCB manufactured by your preferred manufacturer.
+Rev. A is the first design I made and is a through hole design. Rev. B is the second I made and this a fully SMD design and based on an FMS6143 video filter driver.
 
-# Billing of Materials
+I have included the Gerber files from both designs, so you can have the PCB of your choice manufactured by your preferred manufacturer.
+
+# Billing of Materials: Rev. A
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
 - 3x NPN Transistors. I've used BC547, but most small signal transistors should be fine.
 - 1x 2K2 Resistor
 - 1x 3K9 or 1x 4K3 Resistor
 - 1x 390R Resistor
 - 1x 22uF Electrolytic Capacitor
+- Some wire
+- 2x M2.5 screws
+- 4x M2.5 nuts
+
+# Billing of Materials: Rev. B
+- 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
+- Q1: BC847, SOT23
+- C1: 0,1 uF ceramic capacitor XR7, 0805
+- C2: 0,1 uF ceramic capacitor XR7, 0805
+- C3: 0,1 uF ceramic capacitor XR7, 0805
+- C4: 1 uF aluminium electrolytic capacitor (4x5,3)
+- C65: 22 uF aluminium electrolytic capacitor (6,3x5,3)
+- R1: 2K2 thick film resistor, 0805
+- R2: 4K3 thick film resistor, 0805
+- R3: 390R thick film resistor, 0805
+- R4: 75R thick film resistor, 0805
+- R5: 75R thick film resistor, 0805
 - Some wire
 - 2x M2.5 screws
 - 4x M2.5 nuts

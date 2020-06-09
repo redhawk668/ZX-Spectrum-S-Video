@@ -16,8 +16,11 @@ I first built it up on a piece of stripboard and did some testing and it worked 
 This PCB makes the modification a bit easier to carry out and it is reversible. 
 
 # The PCB itself
-![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/KiCad/Final%20Design.png)
 
+#Rev. A
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20A/Final%20Design.png)
+
+#Rev. B
 I have included the Gerber files, so you can have the PCB manufactured by your preferred manufacturer.
 
 # Billing of Materials

@@ -17,10 +17,12 @@ This PCB makes the modification a bit easier to carry out and it is reversible.
 
 # The PCB itself
 
-#Rev. A
+# Rev. A
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20A/Final%20Design.png)
 
-#Rev. B
+# Rev. B
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20B/Final%20Design%20Rev.%20B%20-%20Red.png)
+
 I have included the Gerber files, so you can have the PCB manufactured by your preferred manufacturer.
 
 # Billing of Materials

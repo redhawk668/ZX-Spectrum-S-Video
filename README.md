@@ -41,6 +41,7 @@ I have included the Gerber files from both designs, so you can have the PCB of y
 # Billing of Materials: Rev. B
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
 - Q1: BC847, SOT23
+- U1: FMS6143CSX, SOIC-8
 - C1: 0,1 uF ceramic capacitor XR7, 0805
 - C2: 0,1 uF ceramic capacitor XR7, 0805
 - C3: 0,1 uF ceramic capacitor XR7, 0805

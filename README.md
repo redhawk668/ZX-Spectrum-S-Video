@@ -1,31 +1,30 @@
 # Introduction
 
-This PCB replaces the RF modulatorbox on a Sinclair ZX Spectrum computer. It's main purpose is to improve the video output of the ZX Spectrum by seperating the luma/sync (Y) and chroma (C) signals.
-
-The ZX Spectrum does have a composite signal that goes into the modulatorbox, a simple modification is to cut off the +5 volt to the modulator, disconnect the composite signal from the RF modulator and feed the signal to the RCA jack of the modulator. This results in a signal that is slightly better than RF. This is a common mod and is easy to perform. However, the image has a lot of dot crawl, because the pixel clock is not synchronised with the PAL colour subcarrier.
+This PCB replaces the RF modulatorbox on a Sinclair ZX Spectrum computer. It's main purpose is to improve the video output of the ZX Spectrum by seperating the luma/sync (Y) and chroma (C) signals to get rid of the dotcrawl.
 
 # Composite output works, why designing this board?
 Why not? I use a RetroTink 2X (https://www.retrotink.com/product-page/retrotink-2x), this little device converts an analog signal to HDMI output. The Spectrum's composite output is absolutely horrible on this. The RetroTink provides an s-video input, that gave me the idea to seperate the Y/C signals to convert the composite output to s-video, improving the video signal. Some googling later I found this thread on the World of Spectrum forums: 
 
 https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-modification-on-issue-two-48k-spectrum/p1. 
 
-Credits to MAK1024 and RGA24 for providing the basics for this design.
-
-I first built it up on a piece of stripboard and did some testing and it worked quite well with my RetroTink. A nice clear picture without dot crawl. It also gives a good picture on a Commodore 1701 CRT. 
-
-This PCB makes the modification a bit easier to carry out and it is reversible. 
+(Credits to MAK1024 and RGA24 for providing the basics for this design).
 
 # The PCB itself
 
-# Rev. A
+# Rev. A - First design
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20A/Final%20Design.png)
 
-# Rev. B
+# Rev. B - Second design
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20B/Final%20Design%20Rev.%20B%20-%20Red.png)
 
-Rev. A is the first design I made and is a through hole design. Rev. B is the second I made and this is a full SMD design and based on an FMS6143 video filter driver.
+# Rev. C - Final design
 
-I have included the Gerber files from both designs, so you can have the PCB of your choice manufactured by your preferred manufacturer.
+
+Rev. A is a through hole design and uses transistors to amplify the signal. Rev. B is a full SMD design and is based on an FMS6143 video filter driver.
+
+Rev. C is the final design and is based on a THS7314D chip, this is a 3,3 volt design and uses very little power.
+
+I have included the Gerber files each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 
 # Billing of Materials: Rev. A
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)

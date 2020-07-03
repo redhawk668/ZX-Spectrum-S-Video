@@ -26,7 +26,7 @@ Rev. B is a full SMD design and is based on an FMS6143 video filter driver/ampli
 
 Rev. C is the final design and is based on a THS7314D chip, this is a 3,3 volt design and uses very little power.
 
-I have included the Gerber files each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
+I have included the Gerber files from each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 
 # Billing of Materials: Rev. A
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
@@ -81,7 +81,7 @@ Now, remove the modulatorbox and capacitor C65 from the Spectrum PCB. Now carefu
 
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165952.jpg)
 
-Now solder the luma and +5 volt to their respective holes. (The composite output on the Spectrum is now the luma output). Solder the chroma wire to the pad for the + side of capacitor C65. On Issue 2 PCB's C65 is underneath the modulator box, on Issue 3 boards and above, C65 is above C25 on the left side of the PCB.
+Now solder the luma and +5 volt into their respective holes. (The composite output on the Spectrum is now the luma output). Solder the chroma wire into the the + side of capacitor C65. On Issue 2 PCB's C65 is underneath the modulator box, on Issue 3 boards and above, C65 is above C25 on the left side of the PCB.
 
 # Issue 2:
 

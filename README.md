@@ -18,9 +18,11 @@ https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20B/Final%20Design%20Rev.%20B%20-%20Red.png)
 
 # Rev. C - Final design
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20C/S-VHS%20ZX%20Spectrum%20Rev.%20C%20Raytraced.png)
 
+Rev. A is a through hole design and uses transistors to amplify the signal. 
 
-Rev. A is a through hole design and uses transistors to amplify the signal. Rev. B is a full SMD design and is based on an FMS6143 video filter driver.
+Rev. B is a full SMD design and is based on an FMS6143 video filter driver/amplifier.
 
 Rev. C is the final design and is based on a THS7314D chip, this is a 3,3 volt design and uses very little power.
 
@@ -33,13 +35,11 @@ I have included the Gerber files each design, so you can have the PCB of your ch
 - 1x 3K9 or 1x 4K3 Resistor
 - 1x 390R Resistor
 - 1x 22uF Electrolytic Capacitor
-- Some wire
-- 2x M2.5 screws
-- 4x M2.5 nuts
+
 
 # Billing of Materials: Rev. B
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
-- Q1: BC847, SOT23
+- Q1: BC847, SOT323/SC70
 - U1: FMS6143CSX, SOIC-8
 - C1: 0,1 uF ceramic capacitor XR7, 0805
 - C2: 0,1 uF ceramic capacitor XR7, 0805
@@ -51,6 +51,23 @@ I have included the Gerber files each design, so you can have the PCB of your ch
 - R3: 390R thick film resistor, 0805
 - R4: 75R thick film resistor, 0805
 - R5: 75R thick film resistor, 0805
+
+# Billing of Materials: Rev. C
+- 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
+- Q1: BC847, SOT323/SC70
+- U1: THS7314D, SOIC-8
+- C1: 0,1 uF ceramic capacitor XR7, 0805
+- C2: 0,1 uF ceramic capacitor XR7, 0805
+- C3: 10 uF ceramic capacitor XR7, 0805
+- C4: 10 uF ceramic capacitor XR7, 0805
+- C65: 22 uF aluminium electrolytic capacitor (6,3x5,3)
+- R1: 2K2 thick film resistor, 0805
+- R2: 4K3 thick film resistor, 0805
+- R3: 390R thick film resistor, 0805
+- R4: 75R thick film resistor, 0805
+- R5: 75R thick film resistor, 0805
+
+# For all designs:
 - Some wire
 - 2x M2.5 screws
 - 4x M2.5 nuts

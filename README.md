@@ -24,7 +24,7 @@ Rev. A is a through hole design and uses transistors to amplify the signal.
 
 Rev. B is a full SMD design and is based on an FMS6143 video filter driver/amplifier.
 
-Rev. C is the final design and is based on a THS7314D chip, this is a 3,3 volt design and uses very little power.
+Rev. C is the final design and is based on a THS7314D video buffer/amplifier chip, this is a 3,3 volt design and uses very little power. This also has the best display quality.
 
 I have included the Gerber files from each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 

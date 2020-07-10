@@ -56,6 +56,7 @@ I have included the Gerber files from each design, so you can have the PCB of yo
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
 - Q1: BC847, SOT323/SC70
 - U1: THS7314D, SOIC-8
+- REG1: LM1117-3.3, SOT223
 - C1: 0,1 uF ceramic capacitor XR7, 0805
 - C2: 0,1 uF ceramic capacitor XR7, 0805
 - C3: 10 uF ceramic capacitor XR7, 0805

@@ -29,7 +29,7 @@ Rev. B is a full SMD design and is based on an FMS6143 video filter driver/ampli
 
 Rev. C is the third design and is based on a THS7314D video buffer/amplifier chip, this is a 3,3 volt design and uses very little power. This also has good display quality and works on most LCD TV's, but I noticed it has sync issues on some LCD TV's.
 
-Rev. D is the newest design and still based on the THS7314D chip, the 3,3 volt regulator has been omitted, the THS7314D also accepts +5 volt. Power consumption is still minimal. The inputs are now grounded with a 1K resistor to ground. This revision has solved the sync issues. This revision is now also a 4-layer PCB to keep the +5 volt and ground planes seperated from the video signals.
+Rev. D is the newest design and still based on the THS7314D chip, the 3,3 volt regulator has been omitted, the THS7314D also accepts +5 volt. Power consumption is still minimal. The inputs are now grounded with a 1K resistor to ground. The sync issues have been solved on this revision. It now also is a 4-layer PCB to keep the +5 volt and ground planes seperated from the video signals.
 
 I have included the Gerber files from each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 

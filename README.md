@@ -17,14 +17,19 @@ https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-
 # Rev. B - Second design
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20B/Final%20Design%20Rev.%20B%20-%20Red.png)
 
-# Rev. C - Final design
+# Rev. C - Third design
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20C/S-VHS%20ZX%20Spectrum%20Rev.%20C%20Raytraced.png)
+
+# Rev. D - Final design
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20D/S-VHS%20ZX%20Spectrum%20Rev.%20D.png)
 
 Rev. A is a through hole design and uses transistors to amplify the signal. 
 
 Rev. B is a full SMD design and is based on an FMS6143 video filter driver/amplifier.
 
-Rev. C is the final design and is based on a THS7314D video buffer/amplifier chip, this is a 3,3 volt design and uses very little power. This also has the best display quality.
+Rev. C is the third design and is based on a THS7314D video buffer/amplifier chip, this is a 3,3 volt design and uses very little power. This also has good display quality and works on most LCD TV's, but I noticed it has sync issues on some LCD TV's.
+
+Rev. D is the newest design and still based on the THS7314D chip, the 3,3 volt regulator has been omitted and the inputs are now grounded with a 1K resistor to ground. This version solves the sync issues. This revision is now a 4-layer PCB to keep the +5 volt and ground planes seperated from the video signals.
 
 I have included the Gerber files from each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 
@@ -35,7 +40,6 @@ I have included the Gerber files from each design, so you can have the PCB of yo
 - 1x 3K9 or 1x 4K3 Resistor
 - 1x 390R Resistor
 - 1x 22uF Electrolytic Capacitor
-
 
 # Billing of Materials: Rev. B
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
@@ -67,6 +71,22 @@ I have included the Gerber files from each design, so you can have the PCB of yo
 - R3: 390R thick film resistor, 0805
 - R4: 75R thick film resistor, 0805
 - R5: 75R thick film resistor, 0805
+
+# Billing of Materials: Rev. D
+- 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
+- Q1: BC847, SOT323/SC70
+- U1: THS7314D, SOIC-8
+- C1: 0,1 uF ceramic capacitor XR7, 0805
+- C2: 0,1 uF ceramic capacitor XR7, 0805
+- C3: 0,1 uF ceramic capacitor XR7, 0805
+- C65: 22 uF aluminium electrolytic capacitor (6,3x5,3)
+- R1: 1K thick film resistor, 0805
+- R2: 1K thick film resistor, 0805
+- R3: 4K3 thick film resistor, 0805
+- R4: 390R thick film resistor, 0805
+- R5: 75R thick film resistor, 0805
+- R6: 75R thick film resistor, 0805
+- R7: 2K2 thick film resistor, 0805
 
 # For all designs:
 - Some wire

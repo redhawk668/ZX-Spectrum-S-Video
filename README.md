@@ -34,12 +34,8 @@ Rev. D is the newest design and still based on the THS7314D chip, the 3,3 volt r
 I have included the Gerber files from each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 
 # Billing of Materials: Rev. A
-- 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)
-- 3x NPN Transistors. I've used BC547, but most small signal transistors should be fine.
-- 1x 2K2 Resistor
-- 1x 3K9 or 1x 4K3 Resistor
-- 1x 390R Resistor
-- 1x 22uF Electrolytic Capacitor
+|Amount |Parts  |
+|-------|-------|
 
 # Billing of Materials: Rev. B
 - 1x 4 pin mini din chassis (Lumberg TM 0508 A/4)

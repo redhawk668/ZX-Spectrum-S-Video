@@ -34,8 +34,8 @@ Rev. D is the newest design and still based on the THS7314D chip, the 3,3 volt r
 I have included the Gerber files from each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 
 # Billing of Materials: Rev. A
-| 1x4 4 pin mini din chassis (Lumberg TM 0508 A/4) |
-|--------------------------------------------------|
+| Quantity | Value | Device | Package | Parts | Description |
+|----------|-------|--------|---------|-------|-------------|
 
 
 

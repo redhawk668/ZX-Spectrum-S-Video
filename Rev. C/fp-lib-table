@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name MD-40SMK)(type Legacy)(uri ${KIPRJMOD}/footprints/MD-40SMK.mod)(options "")(descr ""))
-)

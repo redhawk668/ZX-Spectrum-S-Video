@@ -12,7 +12,7 @@ https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-
 # The PCB itself
 
 # Rev. A - Simple through hole design (first design)
-![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20A/Final%20Design.png)
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20A/S-VHS%20ZX%20Spectrum%20Rev.%20A.png)
 
 # Rev. D01 - Final design
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20D0.1/S-VHS%20ZX%20Spectrum%20Rev.%20D0.1.png)

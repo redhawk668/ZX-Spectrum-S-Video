@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "S-VHS-ZX-Spectrum-Rev.-C")(type "KiCad")(uri "O:/S-VHS ZX Spectrum/Rev. C/S-VHS-ZX-Spectrum-Rev.-C.kicad_sym")(options "")(descr ""))
+  (lib (name "S-VHS-ZX-Spectrum-Rev.-D-rescue")(type "KiCad")(uri "${KIPRJMOD}/S-VHS ZX Spectrum Rev. D-rescue.kicad_sym")(options "")(descr ""))
+)

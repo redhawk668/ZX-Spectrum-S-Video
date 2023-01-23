@@ -20,8 +20,11 @@ https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-
 # Rev. C - Third design
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20C/S-VHS%20ZX%20Spectrum%20Rev.%20C%20Raytraced.png)
 
-# Rev. D - Final design
+# Rev. D - Fourth design
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20D/S-VHS%20ZX%20Spectrum%20Rev.%20D.png)
+
+# Rev. D01 - Final design
+![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/Rev.%20D01/
 
 Rev. A is a through hole design and uses transistors to amplify the signal. 
 

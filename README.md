@@ -19,7 +19,7 @@ https://www.worldofspectrum.org/forums/discussion/47120/new-video-about-s-video-
 
 Rev. A is a through hole design and uses transistors to amplify the signal. 
 
-Rev. D01 is the final design and is based on the THS7314D chip. This design is a minor improvement to Rev. D. Two resistors have been removed, this was causing a dim picture on some displays. This PCB is a 4-layer design, with seperated ground/power planes. For the connection to the ZX Spectrum a JST connector is used on this design. 
+Rev. D01 is the final design and like the previous Rev. D, based on the THS7314D chip. Two resistors have been removed, this was causing a dim picture on some displays. This design is also a 4-layer with seperated ground/power planes. For the connection to the ZX Spectrum a JST connector is used.
 
 I have included the Gerber files from each design, so you can have the PCB of your choice manufactured by your preferred manufacturer.
 
@@ -44,7 +44,7 @@ I have included the Gerber files from each design, so you can have the PCB of yo
 - R3: 2K2 thick film resistor, 0805
 - R4: 75R thick film resistor, 0805
 - R5: 75R thick film resistor, 0805
-- J2: 3x JST connector 2.54mm spacing
+- J2: 3x01 JST connector 2.54mm spacing
 
 # For Rev. A designs (Rev D.01 has JST connector):
 

@@ -46,7 +46,7 @@ I have included the Gerber files from each design, so you can have the PCB of yo
 - R5: 75R thick film resistor, 0805
 - J2: 3x JST connector 2.54mm spacing
 
-# For Rev. A and Rev. D designs (Rev D.01 has JST connector):
+# For Rev. A designs (Rev D.01 has JST connector):
 
 - Some wire
 - 2x M2.5 screws

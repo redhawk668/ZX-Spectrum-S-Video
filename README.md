@@ -71,7 +71,7 @@ Now solder the luma and +5 volt into their respective holes. (The composite outp
 
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20200522_165732.jpg)
 
-Rev. D01 connection to ZX Spectrum:
+# Rev. D01 connection to ZX Spectrum:
 
 ![alt text](https://github.com/redhawk668/ZX-Spectrum-S-Video/blob/master/IMG_20220704_225618513_HDR.jpg)
 
